@@ -196,25 +196,6 @@ Rendering efficiency, API optimization, resource management, and mobile performa
 
 ---
 
-## 📈 GitHub Activity
-
-### Profile Statistics
-- 📊 **Active Projects** - Building tools and applications
-- ⭐ **Open Source** - Contributing to the community with rn-dep-scanner and more
-- 🔄 **Full-Stack Development** - Mobile, web, and backend expertise
-- 📝 **Consistent Contributions** - Active daily commits and code reviews
-
-### Key Repositories
-- **[rn-dep-scanner](https://github.com/amit13091992/rn-scanner)** - React Native dependency intelligence CLI
-- **[ecommerce-monorepo](https://github.com/amit13091992/ecommerce-monorepo)** - Full-stack TypeScript monorepo
-- More projects available on **[GitHub Profile](https://github.com/amit13091992)**
-
-### GitHub Profile
-[![GitHub Profile Badge](https://img.shields.io/badge/GitHub-amit13091992-181717?style=flat-square&logo=github)](https://github.com/amit13091992)
-[![Profile Views](https://komarev.com/ghpvc/?username=amit13091992&color=ff6b00&style=flat-square)](https://github.com/amit13091992)
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to conversations about React Native, mobile architecture, real-time systems, and interesting engineering problems.
